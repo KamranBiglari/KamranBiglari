@@ -5,5 +5,6 @@ KamranBiglari/KamranBiglari is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=KamranBiglari&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+--->
